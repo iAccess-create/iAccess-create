@@ -1,8 +1,8 @@
-# Jonathan “JT” Thurston | Accessibility product leadership
+# Jonathan “JT” Thurston
 
-This profile presents selected accessibility program outcomes and current product work led by Jonathan “JT” Thurston. JT works with disabled people, product leaders, designers, and engineers to turn barriers into priorities, support delivery, validate what ships, and measure whether it worked.
+Accessibility product and program leader working with disabled people, product, design, and engineering teams from barrier discovery through shipped, measured outcomes.
 
-**[Try JT’s live Companion accessibility demo](https://companion-web-ten.vercel.app/)**
+**[Current work sample: Companion demo](https://companion-web-ten.vercel.app/)**
 
 ## Selected program outcomes
 
