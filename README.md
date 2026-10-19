@@ -1,14 +1,14 @@
 # Jonathan “JT” Thurston
 
-Accessibility product and program leader working with disabled people, product, design, and engineering teams from barrier discovery through shipped, measured outcomes.
-
-**[Current work sample: Companion demo](https://companion-web-ten.vercel.app/)**
+Accessibility product and program leader.
 
 ## Selected program outcomes
 
 - **Walmart:** Led digital accessibility across customer and associate experiences, including store technology and hardware. Associate-store work contributed to an approximately 80% reduction in accessibility issues and defects.
 - **Atlassian:** Built the accessibility program, reviewed and prioritized roughly 400 design-system components, and trained approximately 250 designers. Cloud accessibility bugs fell by about 85% within one year.
 - **Pearson:** Led accessibility as a product function across approximately 5,000 higher-education products. The program used feedback from approximately 30 accessibility testers and roughly 10,000 customer comments and emails; accessibility complaints dropped by approximately 80%.
+
+**[Current work sample: Companion demo](https://companion-web-ten.vercel.app/)**
 
 ## How I run accessibility programs
 
