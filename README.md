@@ -1,23 +1,30 @@
-# Jonathan “JT” Thurston — accessibility product leadership
+# Jonathan “JT” Thurston | Accessibility product leadership
 
-This account presents selected product work led by Jonathan “JT” Thurston. JT leads accessibility products and programs from problem framing through validation, with an emphasis on user agency, clear operating decisions, and adoption inside organizations.
+This profile presents selected accessibility program outcomes and current product work led by Jonathan “JT” Thurston. JT works with disabled people, product leaders, designers, and engineers to turn barriers into priorities, support delivery, validate what ships, and measure whether it worked.
 
 **[Try JT’s live Companion accessibility demo](https://companion-web-ten.vercel.app/)**
 
-His product approach is to:
+## Selected program outcomes
 
-- start with the user’s goal and context rather than requiring a disability label;
-- make access needs configurable without turning every preference into a separate experience;
-- keep safety-critical behavior deterministic and use AI only where its role and fallback are clear; and
-- connect accessible product delivery to executive commitment, program evidence, and sustained adoption.
+- **Walmart:** Led digital accessibility across customer and associate experiences, including store technology and hardware. Associate-store work contributed to an approximately 80% reduction in accessibility issues and defects.
+- **Atlassian:** Built the accessibility program, reviewed and prioritized roughly 400 design-system components, and trained approximately 250 designers. Cloud accessibility bugs fell by about 85% within one year.
+- **Pearson:** Led accessibility as a product function across approximately 5,000 higher-education products. The program used feedback from approximately 30 accessibility testers and roughly 10,000 customer comments and emails; accessibility complaints dropped by approximately 80%.
+
+## How I run accessibility programs
+
+1. Listen to people with disabilities and the teams supporting them to understand barriers in real workflows.
+2. Turn recurring findings into product priorities, roadmap work, design-system requirements, and release criteria.
+3. Work with product, design, and engineering through implementation rather than stopping at an audit.
+4. Validate with disabled users and assistive technology, then recheck the experience that ships.
+5. Track outcomes such as complaint trends, accessibility bugs, product coverage, training, and adoption.
+
+At Atlassian, this loop began with an accessibility audit of navigation and became a redesigned implementation plus a repeatable process for finding, prioritizing, fixing, and validating accessibility problems across shared product patterns.
 
 ## Selected work
 
 ### Companion
 
-**JT’s role:** product direction, accessibility requirements, interaction model, trust and safety boundaries, native/web parity, and prototype delivery.
-
-Companion explores how changing emergency information can become a clear next action that adapts to user-selected communication, movement, transportation, health, and support needs. Product decisions include staged guidance instead of a dense alert feed, user-initiated contact handoffs that never call or send automatically, honest unavailable states for integrations, and parity checks across native and web experiences.
+Companion is JT’s current work sample for turning changing emergency information into clear next actions that adapt to user-selected communication, movement, transportation, health, and support needs. JT leads product direction, accessibility requirements, interaction design, trust and safety boundaries, and native/web parity. Validation includes content and settings parity checks, localization coverage, tested contact rules, responsive review, and end-to-end scenario flows.
 
 **[Try the live Companion demo](https://companion-web-ten.vercel.app/)** · **[Read the public case study](https://github.com/iAccess-create/companion-showcase)**
 
